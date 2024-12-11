@@ -21,7 +21,7 @@ questionArray.push(
 questionArray.push(
   new Question("What fish is used to make calamari?", "squid")
 );
-questionArray.push(new Question("How many Great Lakes are there? Please write your answer as a number", "5"));
+questionArray.push(new Question("How many Great Lakes are there? Please write your answer as a number.", "5"));
 questionArray.push(
   new Question("Can you really see the Great Wall of China from space?", "no")
 );
